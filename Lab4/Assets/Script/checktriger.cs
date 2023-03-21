@@ -35,7 +35,7 @@ public class checktriger : MonoBehaviour
         if (other.tag == "Player")
         {
             
-            rend.material.SetColor("_EmissionColor", Color.red);
+            rend.material.SetColor("_EmissionColor", Color.blue);
 
         }
     }
