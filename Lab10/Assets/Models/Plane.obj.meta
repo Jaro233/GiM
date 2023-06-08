@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: d5508cc459b7b41a1843f3406e24bbf9
+timeCreated: 1496742111
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cylinder2_copy13_default5
+    100002: cylinder2_default6
+    100004: cylinder2_sep10_default5
+    100006: cylinder2_sep11_default5
+    100008: cylinder2_sep12_default5
+    100010: cylinder2_sep13_default5
+    100012: cylinder2_sep21_default4
+    100014: cylinder2_sep22_default3
+    100016: cylinder2_sep23_default2
+    100018: cylinder2_sep7_default5
+    100020: cylinder2_sep8_default5
+    100022: cylinder2_sep9_default5
+    100024: //RootNode
+    100026: sphere3_default7
+    400000: cylinder2_copy13_default5
+    400002: cylinder2_default6
+    400004: cylinder2_sep10_default5
+    400006: cylinder2_sep11_default5
+    400008: cylinder2_sep12_default5
+    400010: cylinder2_sep13_default5
+    400012: cylinder2_sep21_default4
+    400014: cylinder2_sep22_default3
+    400016: cylinder2_sep23_default2
+    400018: cylinder2_sep7_default5
+    400020: cylinder2_sep8_default5
+    400022: cylinder2_sep9_default5
+    400024: //RootNode
+    400026: sphere3_default7
+    2300000: cylinder2_copy13_default5
+    2300002: cylinder2_default6
+    2300004: cylinder2_sep10_default5
+    2300006: cylinder2_sep11_default5
+    2300008: cylinder2_sep12_default5
+    2300010: cylinder2_sep13_default5
+    2300012: cylinder2_sep21_default4
+    2300014: cylinder2_sep22_default3
+    2300016: cylinder2_sep23_default2
+    2300018: cylinder2_sep7_default5
+    2300020: cylinder2_sep8_default5
+    2300022: cylinder2_sep9_default5
+    2300024: sphere3_default7
+    3300000: cylinder2_copy13_default5
+    3300002: cylinder2_default6
+    3300004: cylinder2_sep10_default5
+    3300006: cylinder2_sep11_default5
+    3300008: cylinder2_sep12_default5
+    3300010: cylinder2_sep13_default5
+    3300012: cylinder2_sep21_default4
+    3300014: cylinder2_sep22_default3
+    3300016: cylinder2_sep23_default2
+    3300018: cylinder2_sep7_default5
+    3300020: cylinder2_sep8_default5
+    3300022: cylinder2_sep9_default5
+    3300024: sphere3_default7
+    4300000: cylinder2_copy13_default5
+    4300002: cylinder2_default6
+    4300004: cylinder2_sep10_default5
+    4300006: cylinder2_sep11_default5
+    4300008: cylinder2_sep12_default5
+    4300010: cylinder2_sep13_default5
+    4300012: cylinder2_sep21_default4
+    4300014: cylinder2_sep22_default3
+    4300016: cylinder2_sep23_default2
+    4300018: cylinder2_sep7_default5
+    4300020: cylinder2_sep8_default5
+    4300022: cylinder2_sep9_default5
+    4300024: sphere3_default7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
